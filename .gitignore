@@ -1,0 +1,24 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Heavy AI Models & Weights
+models/*.pth
+models/*.pt
+*.pt
+*.pth
+
+# Large Video Inputs & Outputs
+videos/*.mp4
+videos/*.avi
+outputs/*.avi
+outputs/*.mp4
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
